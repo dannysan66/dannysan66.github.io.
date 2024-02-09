@@ -1,3 +1,4 @@
+# Bankist-Appliication
 Application to manage bank account
 
 Bank Application with Two hard coded users (Username: js Password: 1111 & Username: jd Password: 2222) Functionalities include:
